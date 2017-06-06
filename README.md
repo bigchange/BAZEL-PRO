@@ -1,2 +1,2 @@
 # BAZEL-PRO
-bazel project with multi languages (EACH DIR WITH ONE BUILD AND MORE)
+bazel project with multi languages (EACH PRO DIR WITH ONE BUILD AND MORE)
